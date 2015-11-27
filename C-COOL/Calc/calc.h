@@ -1,3 +1,10 @@
+/*
+
+written by hiroumauma
+URL http://blog.livedoor.jp/hiroumauma/archives/1366474.html
+
+*/
+
 typedef void(*Member)(void);
 typedef void(*_Member)(void*);
 typedef void(*__Member)(void*, int in);
