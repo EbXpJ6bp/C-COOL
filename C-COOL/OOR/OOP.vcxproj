@@ -18,10 +18,21 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dog.h" />
+    <ClInclude Include="Person.h" />
+    <ClInclude Include="Teacher.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Dog.c" />
+    <ClCompile Include="OOP.c" />
+    <ClCompile Include="Person.c" />
+    <ClCompile Include="Teacher.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{FF02DBE3-1E84-4FCB-9E77-23465B57EBCC}</ProjectGuid>
+    <ProjectGuid>{4F6C2883-8D5C-47C1-ABA4-ED64A1B6AC8E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Clac</RootNamespace>
+    <RootNamespace>Teacher</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -145,13 +156,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="clac.c" />
-    <ClCompile Include="main.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="clac.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

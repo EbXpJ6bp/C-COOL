@@ -1,10 +1,3 @@
-/*
-
-written by hiroumauma
-URL http://blog.livedoor.jp/hiroumauma/archives/1366474.html
-
-*/
-
 #include <stdio.h>
 #include <stdlib.h> 
 #include "calc.h"

@@ -1,9 +1,10 @@
-/*
-
-written by hiroumauma
-URL http://blog.livedoor.jp/hiroumauma/archives/1366474.html
-
-*/
+/**
+* @file: main.c
+*
+* Written: hiroumauma
+*
+* URL: http://blog.livedoor.jp/hiroumauma/archives/1366474.html
+**/
 
 #include <stdio.h>
 #include "calc.h"
