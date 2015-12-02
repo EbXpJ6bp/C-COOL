@@ -4,7 +4,11 @@
 
 ### OOP
 file: OOP.c
+
 brief: Object Oriented Programing sample with C
+
 author: Atsushi Sakai
+
 copyright (c): 2014 Atsushi Sakai
+
 license : GPL Software License Agreement
